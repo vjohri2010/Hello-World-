@@ -1,2 +1,2 @@
-# Hello-World-
-this is hello world 
+# Sample readme title 
+Hello world, This is my first repository!
